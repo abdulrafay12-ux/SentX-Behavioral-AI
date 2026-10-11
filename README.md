@@ -2,7 +2,7 @@
 
 SentX is an open-source, web-based software prototype designed to analyze textual inputs and evaluate semantic data patterns matching four categories: Normal, Anxiety, Depression, and Suicidal text logs. By training a multi-class linear classification pipeline on an external balanced corpus of text posts, the system maps unstructured linguistic phrases onto statistical probability distributions to help explore automated text categorization.
 
-**Live Application URL:** [https://streamlit.app](https://streamlit.app)
+**Live Application URL:** [https://sentx-behavioral-ai-gvcqqgpnzz9ppvvdvwcur4.streamlit.app/
 
 ---
 
